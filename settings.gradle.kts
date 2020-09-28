@@ -1,3 +1,3 @@
 
-rootProject.name = "automan2"
+rootProject.name = "automan"
 
