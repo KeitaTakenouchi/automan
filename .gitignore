@@ -23,6 +23,6 @@
 hs_err_pid*
 
 # mine
-build/
-gradle/
-.gradle/
+build
+gradle
+.gradle
